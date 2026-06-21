@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/06_Variables and Data Types/06_Variables and Data Types.iml" filepath="$PROJECT_DIR$/06_Variables and Data Types/06_Variables and Data Types.iml" />
       <module fileurl="file://$PROJECT_DIR$/apna_java.iml" filepath="$PROJECT_DIR$/apna_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/variables_and_datatypes/variables_and_datatypes.iml" filepath="$PROJECT_DIR$/variables_and_datatypes/variables_and_datatypes.iml" />
     </modules>
   </component>
 </project>
