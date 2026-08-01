@@ -4,5 +4,6 @@ public class Problem_01 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println("Sum: " + (a + b));
+        
     }
 }
